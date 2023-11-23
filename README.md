@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Analytics, DataViz and programming (Python, R)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analytics projects for beginners
-- 📫 How to reach me cintiam.jor@gmail.com
 
 <!---
 cikasm/cikasm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
