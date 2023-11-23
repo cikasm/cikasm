@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cikasm
-- 👀 I’m interested in data Analytics, dataviz and programming (python, R)
+- 👀 I’m interested in Data Analytics, DataViz and programming (Python, R)
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analytics projects for beginners
+- 💞️ I’m looking to collaborate on Data Analytics projects for beginners
 - 📫 How to reach me cintiam.jor@gmail.com
 
 <!---
